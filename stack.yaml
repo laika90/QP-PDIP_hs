@@ -1,0 +1,8 @@
+resolver: lts-20.0  # 最新の LTS バージョンに設定
+
+
+packages:
+  - .
+
+extra-deps:
+  - hmatrix-0.20.2  # hmatrixのバージョンを指定
